@@ -14,6 +14,7 @@ The main purpose is to illustrate
 -  accessors and mutators
     -  getter 
     -  setter
+-  importation of Modules to main file
 
 when you run this code you should fill some additional information in CONSOLE and the programs gives you output depending on the information you provide. 
  in the case if you want to change specific data in the code you must enter the name of the creator (for example NIKA) and then it will be gone throught validation
