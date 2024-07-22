@@ -1,4 +1,4 @@
-The reason i write this code is the Tasks given to me during studyind 
+The reason i wrote this code is the Tasks given to me, during studyind 
 This program is written in python 3. 
 
 The main purpose is to illustrate 
